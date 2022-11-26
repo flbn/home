@@ -17,7 +17,6 @@ function Home() {
       </head>
       <body>
         <pre><code>{ascii}</code></pre>
-        <p>ollie.</p>
         <p>most days, i wish i could retreat into the forest. far, far away from any silicon.</p>
         <p>i am contra-<i>portfolio</i>; you may find my work amongst the <a href="https://en.wikipedia.org/wiki/Internet" target="_blank" rel="noopener" noreferrer><b><i>wreckage</i></b></a> -&gt; software is ephemeral, it will and must die. i am elsewhere, on <a href="https://twitter.com/soothshill" target="_blank" rel="noopener" noreferrer><b><i>tw</i></b></a>, <a href="https://github.com/flbn" target="_blank" rel="noopener" noreferrer><b><i>gh</i></b></a>, <a href="https://www.are.na/dwmbt" target="_blank" rel="noopener" noreferrer><b><i>arena</i></b></a>, and the <a href="https://en.wiktionary.org/wiki/rookery" target="_blank" rel="noopener" noreferrer><b><i>rookeries</i></b></a>.
         </p>
@@ -31,7 +30,7 @@ function FourOhFour() {
   return (
     <html>
       <head>
-        <title>ollie</title>
+        <title>404</title>
       </head>
       <body>
         <pre><code>{ascii}</code></pre>
